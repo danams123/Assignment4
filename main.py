@@ -140,11 +140,10 @@ def init(config):
                 Repository.repo.clinics.insert(clinic)
                 clinic_size -= 1
             elif logistic_size > 0:
-                count_received = 0
                 if logistic_size == 1:
                     count_received = int(x[3])
                 else:
-                    count_received =int(x[3][:-1])
+                    count_received = int(x[3][:-1])
                 logistic = Logistics.Logistic(int(x[0]), x[1], int(x[2]), count_received)
                 Repository.repo.logistics.insert(logistic)
                 logistic_size -= 1
