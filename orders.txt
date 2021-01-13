@@ -1,3 +1,15 @@
 Pfizer,20,2021-01-02
-Pfizer,100,2021-01-10
-Tel-Aviv,40
+Pfizer1,100,2021-01-10
+Tel-Aviv,120
+Pfizer,20,1999-01-02
+Pfizer,100,1999-01-02
+Ashdod,91
+PARIS,40
+PARIS,40
+Moderna,100,2021-01-10
+PARIS,0
+AstralZenix,100,2021-01-10
+New-York,1
+AstralZenix,100,2021-01-10
+Beer-Sheva,78
+Beer-Sheva,41
